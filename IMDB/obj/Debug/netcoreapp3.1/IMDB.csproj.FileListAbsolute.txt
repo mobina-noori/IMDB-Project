@@ -1,0 +1,68 @@
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.exe
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.deps.json
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.runtimeconfig.json
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.runtimeconfig.dev.json
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.dll
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.pdb
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.csproj.AssemblyReference.cache
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Form1.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Login.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Properties.Resources.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.csproj.GenerateResource.cache
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AssemblyInfoInputs.cache
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AssemblyInfo.cs
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.csproj.CoreCompileInputs.cache
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.csproj.CopyComplete
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.dll
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.pdb
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.genruntimeconfig.cache
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.SignUp.resources
+D:\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.dll.config
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.DataShow.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Editing.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Admin.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AddMovie.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AddActor.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AddDirector.resources
+D:\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AddCast.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.exe
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.dll.config
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.deps.json
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.runtimeconfig.json
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.runtimeconfig.dev.json
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.dll
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\IMDB.pdb
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.csproj.AssemblyReference.cache
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AddActor.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AddCast.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AddDirector.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AddMovie.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Admin.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.DataShow.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Editing.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Form1.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Login.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.Properties.Resources.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.SignUp.resources
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.csproj.GenerateResource.cache
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AssemblyInfoInputs.cache
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.AssemblyInfo.cs
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.csproj.CoreCompileInputs.cache
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.csproj.CopyComplete
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.dll
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.pdb
+E:\project IMDB\project IMDB\project IMDB\IMDB\IMDB\obj\Debug\netcoreapp3.1\IMDB.genruntimeconfig.cache
